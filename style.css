@@ -37,12 +37,24 @@ h1:nth-child(1) {
   color: #00b1ff;
 }
 
-.Matematika {
+.EDIC {
   color: #ffdd40;
 }
 
 header h1 {
   margin-top: 15px;
+}
+
+header h2 {
+  margin-top: -30px;
+}
+
+header h4 {
+  margin-top: -50px;
+}
+
+header h3 {
+  margin-top: -30px;
 }
 
 header {
@@ -67,6 +79,10 @@ body .gate-cards-container {
 
 header {
   padding: 0 0 40px 0;
+}
+
+footer h2 {
+  margin-top: -50px;
 }
 
 article.gate-card {
