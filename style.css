@@ -41,16 +41,20 @@ h1:nth-child(1) {
   color: #ffdd40;
 }
 
+.MK {
+  color: #ffdd40;
+}
+
 header h1 {
-  margin-top: 15px;
+  margin-top: 80px;
 }
 
 header h2 {
-  margin-top: -30px;
+  margin-top: -50px;
 }
 
 header h4 {
-  margin-top: -50px;
+  margin-top: -40px;
 }
 
 header h3 {
@@ -83,6 +87,21 @@ header {
 
 footer h2 {
   margin-top: -50px;
+}
+h2:nth-child(1) {
+  color: #00b1ff;
+}
+footer h4 {
+  margin-top: -40px;
+}
+h4:nth-child(1) {
+  color: #ffdd40;
+}
+footer h3 {
+  margin-top: 35px;
+}
+h3:nth-child(1) {
+  color: #fde804;
 }
 
 article.gate-card {
